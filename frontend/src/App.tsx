@@ -2,8 +2,8 @@ import React from "react";
 
 function App() {
   return (
-    <div className="App">
-      <h1>DSVendas</h1>
+    <div>
+      <h1 className="text-primary">DSVendas</h1>
     </div>
   );
 }
